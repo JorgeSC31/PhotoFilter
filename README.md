@@ -6,6 +6,7 @@ PhotoFilter es un programa para editar imagenes de distintos formatos (jpg, jpeg
 El editor de imagenes te permite agregar filtro de B/N, invrsión de color o sepia, manipular los valores rgb de la imagen. También puedes voltear la imagen horizontal y verticalmente. Todas estas funciones se aplican a la imagen en tiempo real, además de que se pueden activar múltiples opciones al mismo tiempo.
 Es perfecto para ver distintos objetos en una imagen cambiando la configuración de color para hacer mas visible ciertos objetos.
 
+[![Video demo](https://img.youtube.com/vi/aElsouz5Uys/0.jpg)](https://www.youtube.com/watch?v=aElsouz5Uys)
 
 
 # Compilar y Ejecutar
